@@ -1,0 +1,12 @@
+.tabela{
+	border: 1px solid;
+}
+
+.tabela td{
+	border: 1px solid;
+	padding: 3px;
+}
+
+img{
+	width: 48px;
+}
